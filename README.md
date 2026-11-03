@@ -1,192 +1,254 @@
-# 🕵️‍♂️ Ievgen Guk – Manual QA Engineer Portfolio
+# 🕵️ VeriFlow – Manual Software Testing Portfolio
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/QA--Portfolio-Manual--Testing-blue.svg" />
-  <img src="https://img.shields.io/badge/Experience-17+--years-green.svg" />
-  <img src="https://img.shields.io/badge/TechStack-Mobile%20%7C%20Web%20%7C%20API-yellow.svg" />
-  <img src="https://img.shields.io/badge/Location-Košice%2C%20Slovakia-lightgrey.svg" />
-</p>
+Welcome to **VeriFlow – Manual Software Testing Portfolio**, a practical collection of software quality assurance artifacts demonstrating different approaches to manual testing, test documentation, defect reporting, and quality validation.
 
-<p align="center">
-  🚀 <a href="#📁-repository-structure">Repository Overview</a> • 
-  💬 <a href="#👤-about-me">About Me</a> • 
-  🧰 <a href="#🧰-skills--tools">Skills</a> • 
-  🧪 <a href="#📁-explore-qa-artifacts">Explore Test Sections</a> • 
-  🎓 <a href="#🎓-selected-certifications">Certifications</a>
-</p>
-
---- -->
-
-Hi there! 👋 I'm **Ievgen Guk** *(pronounced like "Yevhen", also known as Eugene)* - a Lead/Senior Manual QA Engineer with 17+ years of hands-on experience in software testing, including mobile (iOS/Android), web, and desktop platforms.
-
-This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.  
-
-🔒 *All content is fictional or generalized to respect client confidentiality (NDAs).*
+This repository is designed to demonstrate my understanding of software testing methodologies, structured test design, and quality assurance practices through practical examples and documentation.
 
 ---
 
-## 👤 About Me
+## 🎯 Project Overview
 
-💼 **Manual QA Engineer**  
-🎯 Specializing in full-cycle software testing, quality processes, and bringing clarity through structured QA and reliable manual testing practices.
+VeriFlow focuses on the fundamental activities involved in software quality assurance and manual testing.
 
-🧠 Proven track record in:
-- Designing and implementing QA processes from the ground up
-- Manual testing in Agile/Scrum workflows
-- Leading and mentoring QA teams
-- Enhancing product quality and user experience
-- Ensuring clear documentation and efficient bug triage
+The repository contains practical QA materials covering:
 
-🔍 Passionate about crafting clean and predictable releases users can trust through thoughtful testing and continuous process improvement.
+- Test Case Design and Execution
+- Test Planning and Documentation
+- Bug Reporting and Defect Tracking
+- Functional and Regression Testing
+- API Testing Fundamentals
+- Database Validation using SQL
+- Testing Checklists
+- QA Process Documentation
 
-- 📧 **Email:** egook@outlook.com  
-- 🔗 **LinkedIn:** [Ievgen Guk](https://www.linkedin.com/in/egooki)  
-- 📄 **Resume:** [Preview & Download PDF](https://1drv.ms/b/c/e66366535f32e7c7/EXD_G6gheA1PvgbJ70Sh7swBSeLztuoZ_MEryjcCtOYXzg)  
-- 📍 **Location:** Košice, Slovakia  
-- 🕒 **Time Zone:**  
-  - ❄️ **CET (UTC+1):** Central European Time - used in winter   
-  - ☀️ **CEST (UTC+2):** Central European Summer Time - applies during Daylight Saving Time *(from last Sunday in March to last Sunday in October)*  
-- 🌐 **Languages:**  
-  - ![UA](https://flagcdn.com/w20/ua.png) Ukrainian (native)  
-  - ![GB](https://flagcdn.com/w20/gb.png) English (upper intermediate | B2)  
-  - ~~russian (advanced)~~  
-  - ![SK](https://flagcdn.com/w20/sk.png) Slovak *(with serious help from dictionary, translator apps, and AI companions — and still questionable mutual understanding)*  
+**Objective:** Develop a structured understanding of software quality and demonstrate practical QA engineering skills through organized testing artifacts.
+
+---
+
+## 👨‍💻 About Me
+
+**Himnish Tyagi**
+
+Computer Science Engineering – Software Engineering
+
+A technology enthusiast interested in Software Quality Assurance, Software Testing, and Automation Engineering.
+
+My technical interests include:
+
+- Understanding software behavior and identifying defects.
+- Designing structured test cases and test scenarios.
+- Evaluating application functionality and reliability.
+- Exploring API testing and database validation.
+- Learning automation testing frameworks.
+- Understanding software development and testing workflows.
+
+I believe software quality is not just about finding defects, but also about understanding how systems behave and ensuring that applications meet their expected requirements.
 
 ---
 
 ## 🧰 Skills & Tools
 
-- Functional, Regression, Smoke, Exploratory Testing  
-- Accessibility & Localization Testing (Lighthouse, Axe, OneSky, Wave)  
-- Mobile QA: iOS, Android, React Native  
-- API Testing: Fiddler, Postman, Charles Proxy, Swagger  
-- Agile Methodologies: Scrum, Kanban  
-- Tools: Jira, Confluence, TestRail, BrowserStack, Figma  
-- Grey-box Testing: SQL, REST APIs, logs
+### Software Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Exploratory Testing
+- Test Case Design
+- Bug Reporting
+- Software Testing Life Cycle (STLC)
+- Defect Life Cycle
+
+### API & Database Testing
+- Postman
+- REST API Fundamentals
+- HTTP Methods and Status Codes
+- SQL Queries
+- Database Validation
+
+### Automation & Development
+- Java
+- Selenium WebDriver
+- TestNG
+- Playwright Fundamentals
+- TypeScript Fundamentals
+- HTML and CSS
+
+### Tools & Technologies
+- Git and GitHub
+- Jira Fundamentals
+- Jenkins
+- Linux
+- AWS and Microsoft Azure
 
 ---
 
 ## 📁 Repository Structure
 
-```
-📂 QA-Portfolio/
+```text
+VeriFlow-Manual-QA-Portfolio/
 │
-├ 🧪 Test_Cases       # Sample functional test cases for mobile and web  
-├ 📋 Bug_Reports      # Structured issue reports in Markdown format  
-├ 🗂️ Test_Plans       # Lightweight strategy documents for QA cycles  
-├ ✅ Checklists       # UI, accessibility, and localization guides  
-├ 🔌 API_Testing      # Postman collections and mock responses  
-├ 💾 SQL_Queries      # Sample SQL queries for validation and inspection  
-├ 📊 Test_Reports     # Final test execution summaries and result logs  
-├ 🧠 Mindmaps         # Visual diagrams for QA process planning
+├── API_Testing/
+│
+├── Bug_Reports/
+│
+├── Checklists/
+│
+├── Mindmaps/
+│
+├── SQL_Queries/
+│
+├── Test_Cases/
+│
+├── Test_Plans/
+│
+├── Test_Reports/
+│
+├── LICENSE
+│
+└── README.md
 ```
 
 ---
 
-### 📁 Explore QA Artifacts
+## 🔍 Explore QA Artifacts
 
-| 📦 Section       | 🔗 Link                            | 📝 Description                                                  |
-|------------------|------------------------------------|------------------------------------------------------------------|
-| 🧪 Test Cases     | [Test_Cases/](Test_Cases/)         | Functional test cases with clear steps and expected outcomes     |
-| 📋 Bug Reports    | [Bug_Reports/](Bug_Reports/)       | Issue reports with reproduction steps and observed behavior      |
-| 🗂️ Test Plans     | [Test_Plans/](Test_Plans/)         | Strategy documents outlining testing scope, goals, and approach  |
-| ✅ Checklists     | [Checklists/](Checklists/)         | Validation guides for design, accessibility, and localization    |
-| 🔌 API Testing    | [API_Testing/](API_Testing/)       | Postman samples, mock API responses, request validations         |
-| 💾 SQL Queries    | [SQL_Queries/](SQL_Queries/)       | SQL queries for data validation, joins, and aggregations         |
-| 📊 Test Reports   | [Test_Reports/](Test_Reports/)     | Metrics and release-level execution summaries                    |
-| 🧠 Mindmaps       | [Mindmaps/](Mindmaps/)             | QA logic flows and planning diagrams                             |
-
-> All materials are designed for educational and demonstrative purposes.
+| Section | Description |
+|---|---|
+| 🧪 Test Cases | Functional test cases with execution steps and expected results |
+| 🐞 Bug Reports | Structured defect reports with reproduction steps and severity |
+| 📋 Test Plans | Testing scope, objectives, strategy, and approach |
+| ✅ Checklists | UI and functional validation checklists |
+| 🔌 API Testing | API request validation and testing examples |
+| 💾 SQL Queries | Database validation and data inspection queries |
+| 📊 Test Reports | Test execution summaries and testing outcomes |
+| 🧠 Mindmaps | Visual representations of QA workflows and testing concepts |
 
 ---
 
-## 🎓 Selected Certifications
- 
-💬 *"Continuous learner with 60+ professional certifications... and counting."*  
+## 🧪 Testing Methodologies
 
-#### 🔍 QA & Management Highlights:
+This portfolio demonstrates different software testing approaches.
 
-- ⚙️ **API Testing Foundations**  
-  *Skills:* API Testing · REST · SQA · Web Testing  
-- 🧪 **Test Planning / Preparation / Techniques**  
-  *Skills:* Test Cases · Test Design · Mobile Testing · Regression Testing 
-- 📊 **Quality Management Foundations**  
-  *Skills:* Quality Management · Project Leadership · Rally  
-- 🌀 **Atlassian Agile Project Mgmt Pro Cert**  
-  *Skills:* Jira · Agile · Project Leadership · Kanban  
-- 🎯 **Software Testing Foundations: Test Management**  
-  *Skills:* Regression Testing · QA · Rally · Mobile Testing
+### 1. Functional Testing
+Validating application features against their expected requirements.
 
-<details>
-  <summary>📚 Show more – Tap to Expand</summary>
+### 2. Regression Testing
+Checking whether existing functionality continues to work after changes.
 
-#### 🧪 Testing Techniques:
-- **Snagit Certification** – TechSmith  
-- **Alpha Testing in Agile World**
-- **Exploratory Testing**
-- **Penetration Testing and Ethical Hacking** 
-- **Bug Writing and Management**
-- **Scripting for Testers**
-- **Continuous Testing and DevOps**
-- **Transitioning to Automation**
-- **Becoming a Product Tester**
-- **Agile Testing**
-- **Testing Throughout SDLC**
-- **Chrome DevTools · Web Performance**
-- **Test Automation Foundations**
+### 3. Smoke Testing
+Performing initial checks to verify the basic stability of an application.
 
-#### 🤖 Productivity & Tools:
-- **Career Essentials in GitHub**
-- **AI for Managers**
-- **Boosting Productivity with AI**
-- **Generative AI for Research**
-- **LambdaTest Pro Certification**
-- **Learning Jira · Rally · Mantis**
+### 4. Exploratory Testing
+Exploring application behavior to identify unexpected issues and potential defects.
 
-#### ☁️ DevOps & Cloud:
-- **Azure DevOps (for non-programmers)**
-- **AZ-900 Microsoft Azure Fundamentals**
-- **Learning Azure DevOps · AWS Essentials**
+### 5. API Testing
+Validating API responses, request parameters, status codes, and application behavior.
 
-#### 📊 Project Management Series:
-- **Getting Started with Microsoft Project**
-- **Project Leadership**
-- **Planning for Successful Projects**
-- **Microsoft Project in Business Situations**
-- **Meeting Planning · Delegating Tasks · Strategic Thinking**
-
-#### 🛠️ Other:
-- **React Native Essential Training**
-- **ServiceNow & ITSM**
-- **Behavior-Driven Development**
-- **Understanding Manual Testing**
-- **Jira Work Management Fundamentals**
-- **Common Meeting Problems**
-
-</details>
+### 6. Database Testing
+Using SQL queries to inspect and validate stored application data.
 
 ---
 
-## 🧾 License
+## 📋 QA Documentation Approach
 
-This repository is licensed under the [MIT License](LICENSE).  
+Each testing artifact follows a structured documentation approach.
 
-You are free to use, modify, and distribute the materials **with proper attribution** to the author (yep, that fabulous individual is me! 😎).
+**Test Cases**
+- Test Case ID
+- Test Scenario
+- Preconditions
+- Test Steps
+- Expected Result
+- Actual Result
+- Execution Status
 
-GitHub profile for attribution: [Ukrainian QA dude - Ievgen (Eugene) Guk](https://github.com/eGoOki).
+**Bug Reports**
+- Bug ID
+- Bug Title
+- Environment
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity and Priority
+- Defect Status
 
-Sharing is caring, plagiarism is… less charming.
+**Test Plans**
+- Testing Objectives
+- Scope of Testing
+- Testing Approach
+- Resources
+- Entry and Exit Criteria
+- Risks and Dependencies
 
 ---
 
-Thanks for stopping by. 
+## 🔮 Future Enhancements
 
-If this repo made your day 0.5% better — my job here is done 😎
+- Advanced Selenium Automation
+- Playwright Test Automation
+- API Automation using REST Assured
+- Database Testing Integration
+- Automated Test Execution Reports
+- CI/CD Integration with GitHub Actions
+- Advanced Regression Testing Scenarios
 
-Feel free to drop a star ⭐ and send bug-free vibes 🚀
+---
 
-QA out.  
+## 🎓 Learning & Professional Development
 
-Stay safe out there, and never stop supporting Ukraine ![UA](https://flagcdn.com/w20/ua.png)  
+Currently focusing on developing practical knowledge in:
 
-In code we trust *(or not)*. In peace we believe.
+- Software Quality Assurance
+- Manual and Functional Testing
+- Test Automation Engineering
+- API Testing
+- SQL and Database Validation
+- Agile Software Development
+- Continuous Integration and Continuous Testing
+
+---
+
+## 💡 My Approach to Software Quality
+
+Software testing is not simply about checking whether an application works.
+
+It is about understanding expected behavior, identifying unexpected outcomes, evaluating risks, and building confidence in software reliability.
+
+Through VeriFlow, I aim to explore how structured testing practices can contribute to better software quality and more reliable applications.
+
+---
+
+## 👨‍💻 Author
+
+**Himnish Tyagi**
+
+B.Tech – Computer Science Engineering (Software Engineering)
+
+Ajeenkya DY Patil University, Pune
+
+**Areas of Interest:**
+- Associate Quality Engineering
+- Software Quality Assurance
+- Manual Testing
+- Test Automation
+- API Testing
+- Software Reliability
+
+---
+
+## 📄 License & Attribution
+
+This repository contains QA learning materials adapted from an existing open-source QA portfolio.
+
+Original repository: https://github.com/eGoOki/QA-Portfolio
+
+The original MIT License and attribution requirements are retained. Please refer to the LICENSE file for usage and redistribution terms.
+
+My modifications and additions are intended for educational and professional demonstration purposes.
+
+---
+
+⭐ Thank you for exploring VeriFlow!
+
+**VeriFlow – Verify Better. Deliver with Confidence.**
