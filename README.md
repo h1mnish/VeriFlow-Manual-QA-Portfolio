@@ -239,13 +239,8 @@ Ajeenkya DY Patil University, Pune
 
 ## 📄 License & Attribution
 
-This repository contains QA learning materials adapted from an existing open-source QA portfolio.
-
-Original repository: https://github.com/eGoOki/QA-Portfolio
-
 The original MIT License and attribution requirements are retained. Please refer to the LICENSE file for usage and redistribution terms.
 
-My modifications and additions are intended for educational and professional demonstration purposes.
 
 ---
 
